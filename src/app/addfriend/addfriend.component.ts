@@ -31,6 +31,10 @@ export class AddfriendComponent implements OnInit {
       alert("Successfully completed")
     }
   )
+  this.name=""
+  this.friendName=""
+  this.friendNickName=""
+  this.DescribeYourFriend=""
     }
   
   
